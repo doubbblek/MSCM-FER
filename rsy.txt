@@ -1,0 +1,6 @@
+log
+checkpoint
+.vscode
+__pycache__
+*.pyc
+*.sh

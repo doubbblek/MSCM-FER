@@ -1,0 +1,41 @@
+=> Using fold div: 8
+=> Using fold div: 8
+=> Using fold div: 8
+=> Using fold div: 8
+=> Using fold div: 8
+=> Using fold div: 8
+=> Using fold div: 8
+=> Using fold div: 8
+Loaded
+/home/tankunli2/miniconda3/envs/py38/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument 'interpolation' of type int is deprecated since 0.13 and will be removed in 0.15. Please use InterpolationMode enum.
+  warnings.warn(
+0/1874
+100/1874
+200/1874
+300/1874
+400/1874
+500/1874
+600/1874
+700/1874
+800/1874
+900/1874
+1000/1874
+1100/1874
+1200/1874
+1300/1874
+1400/1874
+1500/1874
+1600/1874
+1700/1874
+1800/1874
+[[351  11  11  12   4   2   1]
+ [ 12 227  37  11   3   3  10]
+ [ 27  25 291  48  28   1   7]
+ [ 12  12  43 250  11   1  19]
+ [  4  14  44  30 109   1  33]
+ [  1   4  12   3   0   2   2]
+ [  2  26  19  26  20   1  51]]
+[0.89540816 0.74917492 0.68149883 0.7183908  0.46382979 0.08333333
+ 0.35172414]
+0.5633371389847114
+0.683564567769477
